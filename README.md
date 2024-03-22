@@ -10,8 +10,13 @@ Furthermore, careful movement between bases presents another challenge. Keep you
 The main objective is to provide fun, so enjoy yourself and good luck!
 
 Click here to play [Roll-Earth](https://adneycm.itch.io/roll-earth-adneycm)
-![Roll-Earth](mainmenu.png)
-![Gameplay](gameplay.png)
+
+<div style="display: flex; justify-content: center;">
+    <img src="mainmenu.png" alt="Roll-Earth" style="width: 45%; margin-right: 20px;">
+    <img src="gameplay.png" alt="Gameplay" style="width: 45%; margin-left: 20px;">
+</div>
+
+
 
 
 ### Unity Assets:
